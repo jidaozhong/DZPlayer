@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DZPlayer_Example' do
+  pod 'DZPlayer', :path => '../'
+
+  target 'DZPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
