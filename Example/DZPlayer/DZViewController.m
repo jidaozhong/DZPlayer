@@ -7,7 +7,7 @@
 //
 
 #import "DZViewController.h"
-
+#import <DZPlayer/DZDownLoader.h>
 @interface DZViewController ()
 
 @end
@@ -17,6 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [[DZDownLoader new] test];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

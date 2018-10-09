@@ -1,0 +1,23 @@
+{
+  "name": "DZPlayer",
+  "version": "0.1.0",
+  "summary": "A short description of DZPlayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ji550548522@outlook.com/DZPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ji550548522@outlook.com": "ji550548522@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/ji550548522@outlook.com/DZPlayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DZPlayer/Classes/*.{h,m}",
+  "public_header_files": "DZPlayer/Classes/*.h"
+}

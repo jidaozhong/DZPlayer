@@ -1,0 +1,16 @@
+PODS:
+  - DZPlayer (0.1.0)
+
+DEPENDENCIES:
+  - DZPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  DZPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DZPlayer: c2103d3ee45ad5b2b5ab915c20eda9a86edf7149
+
+PODFILE CHECKSUM: 5d774d3cfc23e0d03fb3c73fc930b8468a25e1ad
+
+COCOAPODS: 1.5.3
