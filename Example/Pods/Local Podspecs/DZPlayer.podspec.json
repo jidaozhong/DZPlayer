@@ -9,10 +9,10 @@
     "file": "LICENSE"
   },
   "authors": {
-    "ji550548522@outlook.com": "ji550548522@outlook.com"
+    "jidaozhong": "ji550548522@outlook.com"
   },
   "source": {
-    "git": "https://github.com/ji550548522@outlook.com/DZPlayer.git",
+    "git": "https://github.com/jidaozhong/DZPlayer.git",
     "tag": "0.1.0"
   },
   "platforms": {

@@ -27,3 +27,4 @@ ji550548522@outlook.com, ji550548522@outlook.com
 ## License
 
 DZPlayer is available under the MIT license. See the LICENSE file for more info.
+
